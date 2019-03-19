@@ -1,4 +1,4 @@
-# appli-foot
+# Nasa In My Pocket
 
 ## Project setup
 ```

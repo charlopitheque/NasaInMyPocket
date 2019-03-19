@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NasaInMyPocket</string>
+    <string name="title_activity_main">NasaInMyPocket</string>
+    <string name="package_name">com.example.nasaInMyPocket</string>
+    <string name="fileprovider_authority">com.example.nasaInMyPocket.fileprovider</string>
+    <string name="custom_url_scheme">com.example.nasaInMyPocket</string>
+</resources>

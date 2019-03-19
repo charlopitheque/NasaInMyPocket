@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.nasaInMyPocket",
+  "appName": "NasaInMyPocket",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "windowsAndroidStudioPath":"D:\\Android studio\\bin\\studio64.exe"
+}
