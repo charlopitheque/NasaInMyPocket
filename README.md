@@ -2,27 +2,27 @@
 
 ## Project setup
 ```
-yarn install
+npm i
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
-yarn run build
+npm run build
+```
+### Copy assets via capacitor
+```
+npx cap copy
 ```
 
-### Run your tests
+### Open native project on Android 
+(You may need to change 'windowsAndroidStudioPath' in capacitor.config.json corresponding to your path to studio64.exe)
 ```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+npx cap open android
 ```
 
 ### Customize configuration
